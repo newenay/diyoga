@@ -12,7 +12,7 @@ npm run build
 npx serve@latest
 ```
 
-> ![NOTE]
+> [!NOTE]
 > Prod/Dev redirects to static subfolder `/diyoga` to mimic a project with GitHub Pages ( ie: https://newenay.github.io/diyoga )
 
 Open [http://localhost:3000/diyoga](http://localhost:3000/diyoga) with your browser to see the result.
