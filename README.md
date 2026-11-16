@@ -14,8 +14,10 @@ pnpm dev
 bun dev
 ```
 
-> This mimics a project with GitHub Pages ( ie: https://newenay.github.io/diyoga )
-Open [http://localhost:3000/diyoga](http://localhost:3000/diyoga) with your browser to see the result.
+> ![NOTE]
+> Prod redirects subfolder `/diyoga` to This mimics a project with GitHub Pages ( ie: https://newenay.github.io/diyoga )
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
