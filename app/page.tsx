@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-center py-32 px-16 bg-white dark:bg-black">
         <Image
           className="dark:invert"
-          src="/images/diyoga_temp_logo.png"
+          src="/diyoga/images/diyoga_temp_logo.png"
           alt="diyoga logo"
           width={500}
           height={500}
@@ -19,6 +19,7 @@ export default function Home() {
               className="text-lg hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
             >info@diyoga.com</a>
           </p>
+          <p><small>NODE_ENV: {process.env.NODE_ENV}</small></p>
         </div>
       </main>
     </div>
