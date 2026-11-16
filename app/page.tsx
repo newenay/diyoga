@@ -19,7 +19,7 @@ export default function Home() {
               className="text-lg hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
             >info@diyoga.com</a>
           </p>
-          <p><small>NODE_ENV: {process.env.NODE_ENV}</small></p>
+          <p><span className="yellow-text"><small>NODE_ENV: {process.env.NODE_ENV}</small></span></p>
         </div>
       </main>
     </div>
