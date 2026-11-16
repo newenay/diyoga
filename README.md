@@ -2,22 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, run the server(s):
 
 ```bash
+# development
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# or production (builds to 'diyoga' static out folder)
+npm run build
+npx serve@latest
 ```
 
 > ![NOTE]
-> Prod redirects subfolder `/diyoga` to This mimics a project with GitHub Pages ( ie: https://newenay.github.io/diyoga )
+> Prod/Dev redirects to static subfolder `/diyoga` to mimic a project with GitHub Pages ( ie: https://newenay.github.io/diyoga )
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/diyoga](http://localhost:3000/diyoga) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 

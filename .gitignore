@@ -15,7 +15,9 @@
 
 # next.js
 /.next/
+# static export folders:
 /out/
+/diyoga/
 
 # production
 /build
