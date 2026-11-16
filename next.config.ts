@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   // basePath: isProd ? "/diyoga" : "",
   basePath: "/diyoga",
   distDir: "diyoga",
+  assetPrefix: "/diyoga",
   images: {
     unoptimized: true,
   },
