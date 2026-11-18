@@ -36,7 +36,9 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts",
     "diyoga/types/**/*.ts",
-    "diyoga/dev/types/**/*.ts"
+    "diyoga/dev/types/**/*.ts",
+    "out/types/**/*.ts",
+    "out/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

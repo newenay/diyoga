@@ -1,15 +1,17 @@
+// https://github.com/nextjs/deploy-github-pages
+
 import type { NextConfig } from "next";
 
 const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
-  output: "export", // Static export for GitHub Pages
+  // 'out' by default, static export for GitHub Pages
+  output: "export",
+  basePath: process.env.PAGES_BASE_PATH,
   // basePath: isProd ? "/diyoga" : "",
   // assetPrefix: isProd ? "/diyoga" : "",
-  basePath: "/diyoga",
-  assetPrefix: "/diyoga",
-  // builds to 'out' by default, keep 'out' in github workflow build
-  distDir: "diyoga",
+  // builds files '.next' by default
+  // distDir: "diyoga",
   images: {
     unoptimized: true,
   },
