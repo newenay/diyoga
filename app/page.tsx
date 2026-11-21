@@ -8,7 +8,8 @@ export default function Home() {
       <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-center py-32 px-16 bg-white dark:bg-black">
         <Image
           className="dark:invert"
-          src={`${indexBase}/images/diyoga_temp_logo.png`}
+          // src={`${indexBase}/images/diyoga_temp_logo.png`}
+          src={"/diyoga/images/diyoga_temp_logo.png"}
           alt="diyoga logo"
           width={500}
           height={500}
