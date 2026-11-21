@@ -8,7 +8,7 @@ First, run the server(s):
 # development
 npm run dev
 # or production (builds to 'diyoga' static out folder)
-npm run build
+npm run deploy
 npx serve@latest
 ```
 
