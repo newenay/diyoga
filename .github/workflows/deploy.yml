@@ -26,6 +26,6 @@ jobs:
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: out
+          folder: diyoga
           branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
