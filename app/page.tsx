@@ -9,7 +9,7 @@ export default function Home() {
         <Image
           className="dark:invert"
           // src={`${indexBase}/images/diyoga_temp_logo.png`}
-          src={"/diyoga/images/diyoga_temp_logo.png"}
+          src={"/images/diyoga_temp_logo.png"}
           alt="diyoga logo"
           width={500}
           height={500}
