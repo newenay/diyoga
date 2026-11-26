@@ -4,7 +4,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   // Output to 'out' folder for GitHub Pages
   output: "export",
-  // basePath: "/diyoga",
+  basePath: "/diyoga",
   // distDir: "diyoga",
   images: {
     unoptimized: true,
