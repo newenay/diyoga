@@ -5,8 +5,8 @@
    "scripts": {
       "dev": "next dev",
       "build": "next build",
-      "deploy": "npm run build && npx gh-pages -d diyoga -b gh-pages"
-    },
+      "deploy": "npm run build && npx gh-pages -d .next -b gh-pages"
+   },
    "dependencies": {
       "next": "16.4.6",
       "react": "19.3.0",

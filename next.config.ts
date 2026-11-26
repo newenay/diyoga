@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   // Output to 'out' folder for GitHub Pages
   output: "export",
   basePath: "/diyoga",
-  distDir: "diyoga",
+  // distDir: "diyoga",
   images: {
     unoptimized: true,
   },
