@@ -335,18 +335,10 @@
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
+    "repoRoot": "/Users/njones/code/repos/newenay.github.io/diyoga",
     "turbopack": {
-      "rules": {
-        "*.css": {
-          "loaders": [
-            "@tailwindcss/turbopack"
-          ],
-          "as": "*.css"
-        }
-      },
       "root": "/Users/njones/code/repos/newenay.github.io/diyoga"
     },
-    "repoRoot": "/Users/njones/code/repos/newenay.github.io/diyoga",
     "distDirRoot": ".next"
   },
   "appDir": "/Users/njones/code/repos/newenay.github.io/diyoga",
