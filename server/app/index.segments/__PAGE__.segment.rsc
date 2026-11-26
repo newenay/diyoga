@@ -1,26 +1,25 @@
 1:"$Sreact.fragment"
-2:"/_next/static/chunks/3qfy96eoyh-ek.js"
-3:"/_next/static/chunks/0g7xotsy4znd0.js"
-4:I[39756,["$2","$3"],"default"]
-5:I[37457,["$2","$3"],"default"]
-9:"/_next/static/chunks/3zxalxvoeuu-5.js"
-a:I[5500,["$2","$3","$9"],"Image"]
-b:I[97367,["$2","$3"],"OutletBoundary"]
-c:"$Sreact.suspense"
-f:"ViewportBoundary"
-10:I[97367,["$2","$3"],"$f"]
-11:"MetadataBoundary"
-12:I[97367,["$2","$3"],"$11"]
-13:I[27201,["$2","$3"],"IconMark"]
-:HL["/_next/static/chunks/3lmdro9cguj-w.css","style"]
-7:X
-8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-center py-32 px-16 bg-white dark:bg-black","children":[["$","$La",null,{"className":"dark:invert","src":"/images/diyoga_temp_logo.png","alt":"diyoga logo","width":500,"height":500,"priority":true,"unoptimized":true}],["$","div",null,{"children":[["$","p",null,{"children":["Contact:"," ",["$","a",null,{"href":"mailto:info@diyoga.com","className":"text-lg hover:text-blue-600 dark:hover:text-blue-400 transition-colors","children":"info@diyoga.com"}]]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["NODE_ENV: ","production"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["PAGES_BASE_PATH: ","/"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["indexBase: ","/"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["INPUT_PATH: ","/"]}]}]}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3zxalxvoeuu-5.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$7"}}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3lmdro9cguj-w.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0g7xotsy4znd0.js","async":true}]],["$","html",null,{"lang":"en","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Diyoga, LLC"}],["$","meta","1",{"name":"description","content":"Splash Page"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$7"}},"a":"$@15","u":"$@16","b":"D4C_ScqlWEcA_kuyZXRWC"}
-d:null
-7:300
-16:true
-7:C
-15:0
-6:"$undefined"
-14:"$undefined"
-e:"$undefined"
+2:"/diyoga/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/diyoga/_next/static/chunks/2py3jp91rai49.js"
+9:I[5500,["$2","$8"],"Image"]
+a:I[97367,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$2"],"$e"]
+10:"MetadataBoundary"
+11:I[97367,["$2"],"$10"]
+12:I[27201,["$2"],"IconMark"]
+:HL["/diyoga/_next/static/chunks/26se433pq9p86.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-center py-32 px-16 bg-white dark:bg-black","children":[["$","$L9",null,{"className":"dark:invert","src":"/diyoga/images/diyoga_temp_logo.png","alt":"diyoga logo","width":500,"height":500,"priority":true,"unoptimized":true}],["$","div",null,{"children":[["$","p",null,{"children":["Contact:"," ",["$","a",null,{"href":"mailto:info@diyoga.com","className":"text-lg hover:text-blue-600 dark:hover:text-blue-400 transition-colors","children":"info@diyoga.com"}]]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["NODE_ENV: ","production"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["PAGES_BASE_PATH: ","/"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["indexBase: ","/"]}]}]}],["$","p",null,{"children":["$","span",null,{"className":"yellow-text","children":["$","small",null,{"children":["INPUT_PATH: ","/"]}]}]}]]}]]}]}],[["$","script","script-0",{"src":"/diyoga/_next/static/chunks/2py3jp91rai49.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/diyoga/_next/static/chunks/26se433pq9p86.css","precedence":"next"}],["$","script","script-0",{"src":"/diyoga/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Diyoga, LLC"}],["$","meta","1",{"name":"description","content":"Splash Page"}],["$","link","2",{"rel":"icon","href":"/diyoga/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L12","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$6"}},"a":"$@14","u":"$@15","b":"_9sNDtNSV6bs1u5UvchOX"}
+c:null
+6:300
+15:true
+6:C
+14:0
+5:"$undefined"
+13:"$undefined"
+d:"$undefined"

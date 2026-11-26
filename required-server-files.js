@@ -9,7 +9,7 @@ self.__SERVER_FILES_MANIFEST={
     "typedRoutes": false,
     "distDir": ".next",
     "cleanDistDir": true,
-    "assetPrefix": "",
+    "assetPrefix": "/diyoga",
     "cacheMaxMemorySize": 52428800,
     "configOrigin": "next.config.ts",
     "useFileSystemPublicRoutes": true,
@@ -43,7 +43,7 @@ self.__SERVER_FILES_MANIFEST={
         256,
         384
       ],
-      "path": "/_next/image/",
+      "path": "/diyoga/_next/image/",
       "loader": "default",
       "loaderFile": "",
       "domains": [],
@@ -78,7 +78,7 @@ self.__SERVER_FILES_MANIFEST={
       "maxInactiveAge": 60000,
       "pagesBufferLength": 5
     },
-    "basePath": "",
+    "basePath": "/diyoga",
     "sassOptions": {},
     "trailingSlash": true,
     "i18n": null,
@@ -335,10 +335,18 @@ self.__SERVER_FILES_MANIFEST={
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
-    "repoRoot": "/Users/njones/code/repos/newenay.github.io/diyoga",
     "turbopack": {
+      "rules": {
+        "*.css": {
+          "loaders": [
+            "@tailwindcss/turbopack"
+          ],
+          "as": "*.css"
+        }
+      },
       "root": "/Users/njones/code/repos/newenay.github.io/diyoga"
     },
+    "repoRoot": "/Users/njones/code/repos/newenay.github.io/diyoga",
     "distDirRoot": ".next"
   },
   "appDir": "/Users/njones/code/repos/newenay.github.io/diyoga",
